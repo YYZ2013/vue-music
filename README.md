@@ -1,21 +1,16 @@
-# music
+前端开发-Vue-移动端-Music
 
-> A Vue.js project
+6个组件
+20个页面
 
-## Build Setup
+百度音乐api ：https://www.cnblogs.com/yyz2013/p/12696503.html
+代码已上传 GitHub ：https://github.com/YYZ2013/vue-music
 
-``` bash
-# install dependencies
-npm install
+主页，榜单，歌手，搜索页面都已实现
+走马灯 vue-awesome-swiper
+下拉刷新  vue-pull-refresh 
 
-# serve with hot reload at localhost:8080
-npm run dev
+难点：歌词的处理
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+注意细节
